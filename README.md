@@ -1,1 +1,1 @@
-# -mi-primer-repo-toks-
+Pues nuestro proyecto se esta tratando de una empresa llamada toks es ea empresa somos 6 integrantes y ste proyecto consiste en que devemos de hacer varios datos conforme a lo que te toco por ejemplo ami me toco proveedores y tengo que buscar datos de id_proveedor, nom_proveedores, direccion etc y de hay pasarlo a las base de datos y haci crear un codigo en python donde yte apareciera una tabla y con todos los datos 
